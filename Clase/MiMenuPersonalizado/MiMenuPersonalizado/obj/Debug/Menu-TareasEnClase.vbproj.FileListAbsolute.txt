@@ -1,0 +1,14 @@
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\obj\Debug\Menu-TareasEnClase.vbprojAssemblyReference.cache
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\obj\Debug\MiMenuPersonalizado.Menu_Clase.resources
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\obj\Debug\MiMenuPersonalizado.MenuPrincipal.resources
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\obj\Debug\MiMenuPersonalizado.Resources.resources
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\obj\Debug\Menu-TareasEnClase.vbproj.GenerateResource.cache
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\obj\Debug\Menu-TareasEnClase.vbproj.CoreCompileInputs.cache
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\obj\Debug\MiMenuPersonalizado.exe
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\obj\Debug\MiMenuPersonalizado.xml
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\obj\Debug\MiMenuPersonalizado.pdb
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\bin\Debug\MiMenuPersonalizado.exe.config
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\bin\Debug\MiMenuPersonalizado.exe
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\bin\Debug\MiMenuPersonalizado.pdb
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\bin\Debug\MiMenuPersonalizado.xml
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\MiMenuPersonalizado\MiMenuPersonalizado\obj\Debug\MiMenuPersonalizado.ArreglosVectores.resources
