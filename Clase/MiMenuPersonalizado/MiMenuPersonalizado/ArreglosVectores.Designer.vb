@@ -22,6 +22,7 @@ Partial Class ArreglosVectores
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
         Me.PanelSuperior = New System.Windows.Forms.Panel()
         Me.btnCerrar = New System.Windows.Forms.Button()
         Me.lbTitulo = New System.Windows.Forms.Label()
@@ -37,6 +38,7 @@ Partial Class ArreglosVectores
         Me.txtCant = New System.Windows.Forms.TextBox()
         Me.btnSolicitar = New System.Windows.Forms.Button()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.btnLimpiarRegistro = New System.Windows.Forms.Button()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
@@ -56,7 +58,8 @@ Partial Class ArreglosVectores
         Me.cmbComputadoras = New System.Windows.Forms.ComboBox()
         Me.btnPrecios = New System.Windows.Forms.Button()
         Me.btnGenerar = New System.Windows.Forms.Button()
-        Me.btnLimpiarRegistro = New System.Windows.Forms.Button()
+        Me.Informacion = New System.Windows.Forms.ToolTip(Me.components)
+        Me.ErrorProvider = New System.Windows.Forms.ErrorProvider(Me.components)
         Me.PanelSuperior.SuspendLayout()
         Me.PanelTrabajo.SuspendLayout()
         Me.GroupBox3.SuspendLayout()
@@ -64,6 +67,7 @@ Partial Class ArreglosVectores
         Me.GroupBox1.SuspendLayout()
         Me.gbDinamico.SuspendLayout()
         Me.gbUnidimensional.SuspendLayout()
+        CType(Me.ErrorProvider, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'PanelSuperior
@@ -240,6 +244,16 @@ Partial Class ArreglosVectores
         Me.GroupBox1.TabIndex = 6
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Registro"
+        '
+        'btnLimpiarRegistro
+        '
+        Me.btnLimpiarRegistro.BackColor = System.Drawing.Color.Fuchsia
+        Me.btnLimpiarRegistro.Location = New System.Drawing.Point(198, 96)
+        Me.btnLimpiarRegistro.Name = "btnLimpiarRegistro"
+        Me.btnLimpiarRegistro.Size = New System.Drawing.Size(78, 50)
+        Me.btnLimpiarRegistro.TabIndex = 12
+        Me.btnLimpiarRegistro.Text = "Limpiar Registro"
+        Me.btnLimpiarRegistro.UseVisualStyleBackColor = False
         '
         'Label4
         '
@@ -428,15 +442,9 @@ Partial Class ArreglosVectores
         Me.btnGenerar.Text = "Generar Computadoras"
         Me.btnGenerar.UseVisualStyleBackColor = False
         '
-        'btnLimpiarRegistro
+        'ErrorProvider
         '
-        Me.btnLimpiarRegistro.BackColor = System.Drawing.Color.Fuchsia
-        Me.btnLimpiarRegistro.Location = New System.Drawing.Point(198, 96)
-        Me.btnLimpiarRegistro.Name = "btnLimpiarRegistro"
-        Me.btnLimpiarRegistro.Size = New System.Drawing.Size(78, 50)
-        Me.btnLimpiarRegistro.TabIndex = 12
-        Me.btnLimpiarRegistro.Text = "Limpiar Registro"
-        Me.btnLimpiarRegistro.UseVisualStyleBackColor = False
+        Me.ErrorProvider.ContainerControl = Me
         '
         'ArreglosVectores
         '
@@ -460,6 +468,7 @@ Partial Class ArreglosVectores
         Me.gbDinamico.ResumeLayout(False)
         Me.gbDinamico.PerformLayout()
         Me.gbUnidimensional.ResumeLayout(False)
+        CType(Me.ErrorProvider, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -499,4 +508,6 @@ Partial Class ArreglosVectores
     Friend WithEvents btnCerrar As Button
     Friend WithEvents btnLimpiarVenta As Button
     Friend WithEvents btnLimpiarRegistro As Button
+    Friend WithEvents Informacion As ToolTip
+    Friend WithEvents ErrorProvider As ErrorProvider
 End Class
