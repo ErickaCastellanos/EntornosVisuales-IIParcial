@@ -13,3 +13,5 @@ C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-Ejerci
 C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu_EjercicioClase.MenuClase.resources
 C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu_EjercicioClase.Clientes.resources
 C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu_EjercicioClase.Productos.resources
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu_EjercicioClase.ArreglosYVectores.resources
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu_EjercicioClase.LibretaDeBanco.resources

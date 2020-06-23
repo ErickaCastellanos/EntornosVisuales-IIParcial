@@ -73,6 +73,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArreglosYVectores.Designer.vb">
+      <DependentUpon>ArreglosYVectores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ArreglosYVectores.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Clientes.Designer.vb">
       <DependentUpon>Clientes.vb</DependentUpon>
     </Compile>
@@ -84,6 +90,12 @@
     </Compile>
     <Compile Include="Form1.Designer.vb">
       <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibretaDeBanco.Designer.vb">
+      <DependentUpon>LibretaDeBanco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LibretaDeBanco.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MenuClase.Designer.vb">
@@ -122,8 +134,14 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="ArreglosYVectores.resx">
+      <DependentUpon>ArreglosYVectores.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Clientes.resx">
       <DependentUpon>Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibretaDeBanco.resx">
+      <DependentUpon>LibretaDeBanco.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MenuClase.resx">
       <DependentUpon>MenuClase.vb</DependentUpon>
@@ -194,6 +212,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\FondoCompra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

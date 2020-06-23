@@ -37,6 +37,11 @@ Menu-EjercicioClase
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Menu_EjercicioClase.My.Resources.Resources.Fondo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Menu_EjercicioClase.My.Resources.Resources.FondoCompra">
 <summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
