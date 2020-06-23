@@ -1,0 +1,15 @@
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu-EjercicioClase.vbprojAssemblyReference.cache
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu_EjercicioClase.MenuPrincipal.resources
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu_EjercicioClase.Resources.resources
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu-EjercicioClase.vbproj.GenerateResource.cache
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu-EjercicioClase.vbproj.CoreCompileInputs.cache
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\bin\Debug\Menu-EjercicioClase.exe.config
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\bin\Debug\Menu-EjercicioClase.exe
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\bin\Debug\Menu-EjercicioClase.pdb
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\bin\Debug\Menu-EjercicioClase.xml
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu-EjercicioClase.exe
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu-EjercicioClase.xml
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu-EjercicioClase.pdb
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu_EjercicioClase.MenuClase.resources
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu_EjercicioClase.Clientes.resources
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\Menu-EjercicioClase\Menu-EjercicioClase\obj\Debug\Menu_EjercicioClase.Productos.resources
